@@ -1,5 +1,7 @@
 #1/usr/bin/python3
 
-str = 'Holperton School"
+str = "Holperton School"
 
-print('3* str')
+print(3 * str)
+
+print(str[:9])

@@ -1,5 +1,6 @@
-#!/bin/bash
+#!/usr/bin/python3
 
 number = 98
 
-print('{98} Battry street')
+print(f"{number:d} Battery street")
+
